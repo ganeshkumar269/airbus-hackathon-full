@@ -1,0 +1,9 @@
+[submodule "Konnex-Widget"]
+	path = Konnex-Widget
+	url = https://github.com/ganguly2804/Konnex-Widget.git
+[submodule "airhack-admin-panel"]
+	path = airhack-admin-panel
+	url = https://github.com/ganeshkumar269/airhack-admin-panel.git
+[submodule "airbus-hackathon-backend"]
+	path = airbus-hackathon-backend
+	url = https://github.com/ganeshkumar269/airbus-hackathon-backend.git
